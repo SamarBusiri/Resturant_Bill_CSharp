@@ -1,0 +1,15 @@
+C:\Users\samar\source\repos\Bill Calculator\Bill Calculator\bin\Debug\Bill Calculator.exe.config
+C:\Users\samar\source\repos\Bill Calculator\Bill Calculator\bin\Debug\Bill Calculator.exe
+C:\Users\samar\source\repos\Bill Calculator\Bill Calculator\bin\Debug\Bill Calculator.pdb
+C:\Users\samar\source\repos\Bill Calculator\Bill Calculator\obj\Debug\Bill Calculator.csprojAssemblyReference.cache
+C:\Users\samar\source\repos\Bill Calculator\Bill Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\samar\source\repos\Bill Calculator\Bill Calculator\obj\Debug\App.g.cs
+C:\Users\samar\source\repos\Bill Calculator\Bill Calculator\obj\Debug\Bill Calculator_MarkupCompile.cache
+C:\Users\samar\source\repos\Bill Calculator\Bill Calculator\obj\Debug\Bill Calculator_MarkupCompile.lref
+C:\Users\samar\source\repos\Bill Calculator\Bill Calculator\obj\Debug\MainWindow.baml
+C:\Users\samar\source\repos\Bill Calculator\Bill Calculator\obj\Debug\Bill Calculator.g.resources
+C:\Users\samar\source\repos\Bill Calculator\Bill Calculator\obj\Debug\Bill_Calculator.Properties.Resources.resources
+C:\Users\samar\source\repos\Bill Calculator\Bill Calculator\obj\Debug\Bill Calculator.csproj.GenerateResource.cache
+C:\Users\samar\source\repos\Bill Calculator\Bill Calculator\obj\Debug\Bill Calculator.csproj.CoreCompileInputs.cache
+C:\Users\samar\source\repos\Bill Calculator\Bill Calculator\obj\Debug\Bill Calculator.exe
+C:\Users\samar\source\repos\Bill Calculator\Bill Calculator\obj\Debug\Bill Calculator.pdb
